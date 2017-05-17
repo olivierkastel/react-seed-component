@@ -1,6 +1,6 @@
 {
-  "name": "seed-component",
-  "version": false,
+  "name": "react-component-seed",
+  "version": "1.0",
   "dependencies": {},
   "ambientDependencies": {
     "enzyme": "registry:dt/enzyme#1.2.0+20151218140740",
